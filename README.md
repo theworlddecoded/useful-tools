@@ -1,3 +1,7 @@
+#### ALL unicode/characters
+https://graphemica.com/
+https://home.unicode.org/
+
 #### SVG Background generator
 https://www.svgbackgrounds.com/
 
