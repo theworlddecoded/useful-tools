@@ -1,3 +1,6 @@
+#### Screen to Gif
+https://www.screentogif.com/
+
 #### ALL unicode/characters
 https://graphemica.com/
 https://home.unicode.org/
