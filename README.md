@@ -1,3 +1,6 @@
+#### Easily check status codes, response headers, and redirect chains.
+https://httpstatus.io/
+
 #### Screen to Gif
 https://www.screentogif.com/
 
