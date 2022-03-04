@@ -1,4 +1,7 @@
 ####
+https://certbot.eff.org/
+
+####
 https://letsencrypt.org/
 
 #### build media , posters , thumbs for youtube , etc ...
