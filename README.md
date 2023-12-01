@@ -10,6 +10,9 @@ https://leetcode.com/
 ####
 https://certbot.eff.org/
 
+#### product key finder tool
+https://www.magicaljellybean.com/keyfinder/
+
 ####
 https://letsencrypt.org/
 
