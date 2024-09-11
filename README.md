@@ -1,5 +1,5 @@
-#### JSON Parser Online
-http://json.parser.online.fr/
+#### API free tool online to check endpoints
+https://reqres.in/
 
 #### File conversions online
 https://tinywow.com/
@@ -7,13 +7,13 @@ https://tinywow.com/
 #### learn & run code online
 https://leetcode.com/
 
-####
+#### https certificates for VPS
 https://certbot.eff.org/
 
 #### product key finder tool
 https://www.magicaljellybean.com/keyfinder/
 
-####
+#### 
 https://letsencrypt.org/
 
 #### build media , posters , thumbs for youtube , etc ...
@@ -39,13 +39,10 @@ http://www.patternify.com/
 http://sqlfiddle.com
 
 #### run almost any language online (BEST)
-https://repl.it/
+[https://repl.it/](https://replit.com/)
 
 #### run JavaScript , jQuery ... etc ...
 http://jsfiddle.net/
 
 #### run C++ online
 http://cpp.sh/
-
-#### website to compair technologies used in percentage
-https://www.similartech.com/
